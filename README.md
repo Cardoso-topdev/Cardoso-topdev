@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+You can visit my portfolio site for get more detail about me.
+
 <!--
 **Cardoso-topdev/Cardoso-topdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +16,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center">
+  <a href="https://portfolio-c3e28.netlify.app">
+    <img
+      alt="Learn the smart, efficient way to test any JavaScript application."
+      src="imgs/portfolio2.png"
+    />
+  </a>
+</div>
