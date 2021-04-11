@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=Cardoso-topdev)
 You can visit my portfolio site for get more detail about me.
 
 <!--
