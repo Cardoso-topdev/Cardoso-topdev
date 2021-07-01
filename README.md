@@ -1,6 +1,12 @@
 ### Hi there 👋
 
 ![](https://komarev.com/ghpvc/?username=Cardoso-topdev)   <br />
+<div>
+  <h4>🏆 Github Profile Trophy</h4>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cardoso-topdev&column=7"/>
+  </a>
+</div>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cardoso-topdev&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-topdev&layout=compact)
 
