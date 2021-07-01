@@ -3,12 +3,15 @@
 ![](https://komarev.com/ghpvc/?username=Cardoso-topdev)   <br />
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=Cardoso-topdev&column=7"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy" width="100%">
+    <img src="https://github-profile-trophy.vercel.app/?username=Cardoso-topdev&column=8"/>
   </a>
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Cardoso-topdev&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-topdev&layout=compact)
+<div>
+  <h4>👨🏻‍💻 GitHub Usage stats</h4>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=Cardoso-topdev&show_icons=true&theme=radical&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-topdev&layout=compact" />
+</div>
 
 You can visit my portfolio site for get more detail about me. 
 
