@@ -3,9 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=Cardoso-topdev)   <br />
 <div>
   <h4>🏆 Github Profile Trophy</h4>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" width="100%">
-    <img src="https://github-profile-trophy.vercel.app/?username=Cardoso-topdev&column=8"/>
-  </a>
+    <img src="https://github-profile-trophy.vercel.app/?username=Cardoso-topdev&column=8&theme=onedark"/>
 </div>
 <div>
   <h4>👨🏻‍💻 GitHub Usage stats</h4>
