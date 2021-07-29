@@ -11,7 +11,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cardoso-topdev&layout=compact" />
 </div>
 
-You can visit my portfolio site for get more detail about me. 
+You can visit my portfolio site to learn more about me. 
 
 <!--
 **Cardoso-topdev/Cardoso-topdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
