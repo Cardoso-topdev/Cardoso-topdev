@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <a href="https://portfolio-c3e28.netlify.app">
+  <a href="https://cardosolandings.com/">
     <img
       alt="Learn the smart, efficient way to test any JavaScript application."
       src="imgs/portfolio2.png"
