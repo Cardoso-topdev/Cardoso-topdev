@@ -19,6 +19,4 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">             
 </p>
 
-![Cardoso-topdev' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cardoso-topdev&custom_title=Cardoso-topdev's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)
-
 You can visit my [portfolio](https://cardosolandings.com) site to learn more about me. 
