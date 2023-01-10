@@ -21,13 +21,4 @@
 
 ![Cardoso-topdev' Activity Graph](https://activity-graph.herokuapp.com/graph?username=Cardoso-topdev&custom_title=Cardoso-topdev's%20Contribution%20Graph&theme=react-dark&bg_color=1a2d3d&hide_border=true&line=6dbef7&point=add7ff&color=27e8a7)
 
-You can visit my portfolio site to learn more about me. 
-
-<div align="center">
-  <a href="https://cardosolandings.com/">
-    <img
-      alt="Learn the smart, efficient way to test any JavaScript application."
-      src="imgs/portfolio2.png"
-    />
-  </a>
-</div>
+You can visit my [portfolio](https://cardosolandings.com) site to learn more about me. 
